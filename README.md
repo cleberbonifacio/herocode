@@ -14,7 +14,7 @@
 
 ## Tecnologias
 
-Para o desenvolvimento da aplicação foi utilizada a stack: React Native - mobile(android).
+Para o desenvolvimento da aplicação foi utilizada a stack: React (Versão Web) e React Native (Versão mobile(android)).
 
 -   [React Native](https://facebook.github.io/react-native/)
 -   [styled-components](https://www.styled-components.com/)
